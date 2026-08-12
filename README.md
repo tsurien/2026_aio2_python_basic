@@ -4,100 +4,123 @@
 
 # tsurien
 
-### AI Developer in Progress
+### AI Developer · Learning by Building
 
-배운 것을 직접 코드로 구현하며  
-AI 개발자로 성장하고 있습니다.
+Python을 기반으로  
+작은 개념부터 직접 구현하며 AI 개발 역량을 쌓고 있습니다.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tsurien/2026_aio2_python_basic)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsurien@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tsurien/2026_aio2_python_basic)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:tsurien@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About
+## About
 
-현재 Python을 기반으로  
-AI 개발에 필요한 프로그래밍 기초와 데이터 처리 역량을 쌓고 있습니다.
+현재 **신입 AI 개발자**를 목표로 Python과 데이터 처리 기초를 학습하고 있습니다.
 
-배운 개념은 직접 작성하고 실행하며 확인합니다.
+문법을 익히는 데서 끝내지 않고,  
+직접 코드를 작성하고 구조를 나누며 프로그램이 동작하는 방식을 이해하는 데 집중하고 있습니다.
 
-> Learn → Build → Understand
+> Small steps. Clear understanding. Better code.
 
 ---
 
-## 📚 Learning
+## Focus
+
+```text
+Python Fundamentals
+        ↓
+Program Structure
+        ↓
+Data Handling
+        ↓
+AI Development
+```
 
 ### Python
 
-`Variables` `Conditions` `Loops` `Functions` `Data Structures`
+`Syntax` · `Control Flow` · `Input / Output` · `Functions`
 
-기본 문법을 익히고  
-직접 코드를 작성하며 프로그램의 흐름을 이해하고 있습니다.
+프로그램의 기본 흐름을 이해하고  
+작은 기능을 직접 구현하는 연습을 하고 있습니다.
+
+### Structure
+
+`Modules` · `Packages` · `Import`
+
+하나의 파일에 모든 코드를 작성하는 방식에서 벗어나  
+기능을 나누고 다시 사용할 수 있도록 구조화하는 방법을 익히고 있습니다.
+
+`my_first_package` 실습을 통해  
+모듈과 패키지가 어떻게 연결되고 불러와지는지 직접 확인했습니다.
 
 ### Data
 
-`Pandas` `DataFrame` `Data Handling`
+`Pandas` · `DataFrame` · `Data Processing`
 
-데이터를 불러오고, 확인하고, 필요한 값을 추출하는  
-기본적인 데이터 처리 과정을 실습하고 있습니다.
+표 형태의 데이터를 생성하고 확인하며  
+필요한 정보를 선택하고 계산하는 기본적인 데이터 처리 흐름을 학습하고 있습니다.
 
 ---
 
-## 🛠 Stack
+## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-111111?style=flat-square&logo=jupyter&logoColor=F37626"/>
-  <img src="https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=F37626"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=23A8F2"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 💻 Practice
+## Learning Log
 
 ### 2026 AIO2 Python Basic
 
-Python 기초부터 데이터 처리까지  
-직접 실습한 코드를 기록하고 있습니다.
+Python의 기본 문법부터  
+함수, 모듈, 패키지, 데이터 처리까지 직접 실습하며 학습하고 있습니다.
 
-**Repository**  
-https://github.com/tsurien/2026_aio2_python_basic
+단순히 예제를 실행하는 것이 아니라  
+코드를 수정하고 오류를 확인하면서 개념을 이해하는 과정을 기록하고 있습니다.
+
+→ [View Repository](https://github.com/tsurien/2026_aio2_python_basic)
 
 ---
 
-## 🚀 Now
+## Direction
+
+지금은 많은 기술을 보여주는 것보다  
+**기초를 제대로 이해하고 다음 단계로 연결하는 것**에 집중하고 있습니다.
 
 ```text
-Python
-  ↓
-Data
-  ↓
-AI
+learn  →  build  →  break  →  understand  →  improve
 ```
 
-기초를 빠르게 넘기기보다  
-직접 설명할 수 있을 만큼 이해하는 것을 목표로 합니다.
+AI 개발에 필요한 기반을 하나씩 쌓아가며  
+앞으로 프로젝트와 학습 내용을 이 공간에 계속 확장할 예정입니다.
 
 ---
 
-## 📫 Contact
+## Contact
 
 **GitHub**  
 https://github.com/tsurien/2026_aio2_python_basic
 
 **Email**  
-tsurien@gmail.com
+[tsurien@gmail.com](mailto:tsurien@gmail.com)
 
 ---
 
 <div align="center">
 
-`learning by building`
+### build what you learn.
+
+`tsurien`
 
 </div>
