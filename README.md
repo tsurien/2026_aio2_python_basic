@@ -6,8 +6,7 @@
 
 ### AI Developer · Learning by Building
 
-Python을 기반으로  
-작은 개념부터 직접 구현하며 AI 개발 역량을 쌓고 있습니다.
+Python을 기반으로 작은 개념부터 직접 구현하며 AI 개발 역량을 쌓고 있습니다.
 
 <br>
 
