@@ -2,208 +2,272 @@
 
 # Sgh
 
-### Backend · AI · Agent Systems
+### Backend · AI Applications · Agent Systems
 
-**Learning · Building · Growing**
+<sub>Learning with consistency. Building with purpose.</sub>
 
-<img src="https://img.shields.io/badge/IN%20PROGRESS-C9A227?style=flat-square&labelColor=111111" />
+<br>
 
-<br/>
-
-I build while I learn.  
-Documenting what I learn, build, and improve.
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-D4AF37?style=flat-square&labelColor=111111" />
+<img src="https://img.shields.io/badge/FOCUS-Backend%20%26%20AI-111111?style=flat-square&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/GITHUB-tsurien-111111?style=flat-square&logo=github&logoColor=D4AF37" />
 
 </div>
 
 ---
 
-## About Me
+## Profile
 
-I started my development journey from a non-CS background.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I am currently building my fundamentals through a bootcamp,  
-with a focus on **backend development and AI applications**.
+### About
 
-My goal is not to collect technologies.
+I come from a non-CS background,  
+and I am now building my foundation through hands-on study and projects.
 
-I want to understand how systems work,  
-solve problems with code, and gradually build reliable AI services.
+My current focus is **backend development**,  
+and I am gradually expanding toward **AI applications**,  
+**agent systems**, and **workflow-based services**.
 
-> **Learn → Practice → Build → Review → Improve**
+I do not want this GitHub to be only a code archive.  
+I want it to show **how I learn, build, and improve**.
+
+</td>
+<td width="50%" valign="top">
+
+### Current Direction
+
+- Build strong backend fundamentals
+- Learn how APIs, databases, and services work together
+- Grow from AI application development to agent-based systems
+- Document the full learning process in public repositories
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Learning Roadmap
+## Roadmap
 
-<div align="center">
+<table>
+<tr>
+<td width="20%" valign="top">
 
-### 01 · Backend Foundation
-Python · Backend · REST API · Database
+**01**  
+### Backend Foundation  
+Python  
+Backend  
+REST API  
+Database  
 
-↓  
+<img src="https://img.shields.io/badge/IN%20PROGRESS-D4AF37?style=flat-square&labelColor=111111" />
 
-### 02 · AI Agent
-Prompting · Reasoning · AI Orchestration
+</td>
+<td width="20%" valign="top">
 
-↓  
+**02**  
+### AI Agent  
+Prompting  
+Reasoning  
+Orchestration  
 
-### 03 · Multi-Agent
-Agent Collaboration · Service Operation
+<img src="https://img.shields.io/badge/UPCOMING-C0C0C0?style=flat-square&labelColor=111111" />
 
-↓  
+</td>
+<td width="20%" valign="top">
 
-### 04 · AI Workflow
-Workflow Design · Implementation · Operation
+**03**  
+### Multi-Agent  
+Collaboration  
+Service Operation  
 
-↓  
+<img src="https://img.shields.io/badge/UPCOMING-C0C0C0?style=flat-square&labelColor=111111" />
 
-### 05 · Final Project
-Applying what I learned to one complete project
+</td>
+<td width="20%" valign="top">
 
-</div>
+**04**  
+### AI Workflow  
+Workflow Design  
+Implementation  
+Operation  
 
-<br/>
+<img src="https://img.shields.io/badge/UPCOMING-C0C0C0?style=flat-square&labelColor=111111" />
 
-| Phase | Focus | Status |
-| :---: | --- | :---: |
-| **01** | Web Service Foundation & AI Backend | `IN PROGRESS` |
-| **02** | Single-Agent Reasoning & AI Orchestration | `UPCOMING` |
-| **03** | Multi-Agent Collaboration & Service Operation | `UPCOMING` |
-| **04** | Multi-Agent Workflow Design & Operation | `UPCOMING` |
-| **05** | Final Project | `UPCOMING` |
+</td>
+<td width="20%" valign="top">
+
+**05**  
+### Final Project  
+One complete build  
+based on what I learned  
+
+<img src="https://img.shields.io/badge/UPCOMING-C0C0C0?style=flat-square&labelColor=111111" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-### Currently Practicing
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Current
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=D4AF37"/>
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=D4AF37"/>
-  <img src="https://img.shields.io/badge/REST_API-111111?style=flat-square&logoColor=D4AF37"/>
-  <img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=D4AF37"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/REST%20API-111111?style=flat-square&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=D4AF37" />
 </p>
+
+</td>
+<td width="33%" valign="top">
 
 ### Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Redis-181818?style=flat-square&logo=redis&logoColor=C0C0C0"/>
-  <img src="https://img.shields.io/badge/LLM_API-181818?style=flat-square&logoColor=C0C0C0"/>
-  <img src="https://img.shields.io/badge/AI_Application-181818?style=flat-square&logoColor=C0C0C0"/>
+  <img src="https://img.shields.io/badge/Redis-181818?style=flat-square&logo=redis&logoColor=C0C0C0" />
+  <img src="https://img.shields.io/badge/LLM%20API-181818?style=flat-square&logoColor=C0C0C0" />
+  <img src="https://img.shields.io/badge/AI%20Application-181818?style=flat-square&logoColor=C0C0C0" />
 </p>
 
-### Upcoming
+</td>
+<td width="33%" valign="top">
+
+### Next
 
 <p>
-  <img src="https://img.shields.io/badge/AI_Agent-181818?style=flat-square&logoColor=C0C0C0"/>
-  <img src="https://img.shields.io/badge/Multi--Agent-181818?style=flat-square&logoColor=C0C0C0"/>
-  <img src="https://img.shields.io/badge/AI_Workflow-181818?style=flat-square&logoColor=C0C0C0"/>
+  <img src="https://img.shields.io/badge/AI%20Agent-181818?style=flat-square&logoColor=C0C0C0" />
+  <img src="https://img.shields.io/badge/Multi--Agent-181818?style=flat-square&logoColor=C0C0C0" />
+  <img src="https://img.shields.io/badge/AI%20Workflow-181818?style=flat-square&logoColor=C0C0C0" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Learning Journey
 
-I use GitHub as more than a place to store finished code.
+<table>
+<tr>
+<td width="25%" valign="top">
 
-I want it to show how I learn, solve problems,  
-and improve my code over time.
+### Study
 
-```text
-Learn
-  ↓
-Practice
-  ↓
-Build
-  ↓
-Review
-  ↓
-Improve
-```
+Concept notes  
+Core theory  
+Lecture summaries
 
-### Study & Development Notes
+</td>
+<td width="25%" valign="top">
 
-<!-- TODO: Add important learning repositories as they are created. -->
+### Practice
 
-| Repository | What I'm Learning | Status |
-| --- | --- | :---: |
-| `Coming Soon` | Study logs and development notes | `BUILDING` |
+Small exercises  
+API experiments  
+Database practice
+
+</td>
+<td width="25%" valign="top">
+
+### Build
+
+Mini projects  
+Feature implementation  
+Service thinking
+
+</td>
+<td width="25%" valign="top">
+
+### Improve
+
+Review  
+Refactoring  
+Documentation
+
+</td>
+</tr>
+</table>
+
+### Repository Space
+
+<!-- TODO: Replace these placeholders with actual repositories -->
+
+| Repository | Purpose | Status |
+| --- | --- | --- |
+| `coming-soon` | Study logs and technical notes | Preparing |
+| `coming-soon` | Practice repositories | Preparing |
+| `coming-soon` | Project repositories | Preparing |
 
 ---
 
 ## Projects
 
-Projects will be added as I progress through the curriculum.
+I am still in the stage of building my fundamentals.  
+This section will grow with the curriculum and real project work.
 
-Instead of creating projects only to fill this section,  
-I want each project to show a problem I tried to solve  
-and what I learned from the process.
+Instead of filling it with placeholder projects,  
+I will add projects that clearly show:
+
+- what problem I tried to solve
+- what I implemented
+- what I learned
+- how I improved the result
+
+> **Projects will be added as I progress through the bootcamp.**
 
 <!--
-TODO: Replace this section when the first portfolio project is ready.
+TODO: Use the template below when the first real project is ready.
 
 ### Project Name
 
 **Description**  
-Short description of the project.
+Short summary of the project.
 
 **Problem**  
-What problem did this project try to solve?
+What problem does this project solve?
 
 **My Role**  
-What did I personally build or contribute?
+What did I build or contribute?
 
 **Tech Stack**  
-Python · FastAPI · ...
+Python · FastAPI · PostgreSQL · ...
 
 **What I Learned**  
-What changed or improved through this project?
+Key lessons from the project.
 
 **Repository**  
-[View Repository](REPOSITORY_URL)
+[View Repository](URL)
 -->
-
-> **Projects are being built.**  
-> They will be added as I progress through the curriculum.
-
----
-
-## Direction
-
-```text
-Backend
-   ↓
-AI Backend
-   ↓
-AI Agent
-   ↓
-Multi-Agent
-   ↓
-AI Workflow
-```
-
-I am still exploring which AI-related role fits me best.
-
-For now, I am focused on building strong fundamentals  
-and turning what I learn into code, projects, and documentation.
 
 ---
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-tsurien-111111?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/tsurien)
+<p align="left">
+  <a href="https://github.com/tsurien">
+    <img src="https://img.shields.io/badge/GitHub-tsurien-111111?style=flat-square&logo=github&logoColor=D4AF37" />
+  </a>
+</p>
 
-<!-- TODO: Add Blog -->
+<!-- TODO: Add Blog link -->
 <!-- TODO: Add Email -->
 
 ---
 
 <div align="center">
 
-**Learning one step at a time. Building along the way.**
-
-<sub>Sgh · Backend → AI → Agent Systems</sub>
+<sub>Building step by step toward backend and AI systems.</sub>
 
 </div>
