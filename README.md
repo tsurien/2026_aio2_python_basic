@@ -1,125 +1,209 @@
-
-
 <div align="center">
 
-# tsurien
+# Sgh
 
-### AI Developer · Learning by Building
+### Backend · AI · Agent Systems
 
-Python을 기반으로 작은 개념부터 직접 구현하며 AI 개발 역량을 쌓고 있습니다.
+**Learning · Building · Growing**
 
-<br>
+<img src="https://img.shields.io/badge/IN%20PROGRESS-C9A227?style=flat-square&labelColor=111111" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tsurien/2026_aio2_python_basic)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:tsurien@gmail.com)
+<br/>
+
+I build while I learn.  
+Documenting what I learn, build, and improve.
 
 </div>
 
 ---
 
-## About
+## About Me
 
-현재 **신입 AI 개발자**를 목표로 Python과 데이터 처리 기초를 학습하고 있습니다.
+I started my development journey from a non-CS background.
 
-문법을 익히는 데서 끝내지 않고,  
-직접 코드를 작성하고 구조를 나누며 프로그램이 동작하는 방식을 이해하는 데 집중하고 있습니다.
+I am currently building my fundamentals through a bootcamp,  
+with a focus on **backend development and AI applications**.
 
-> Small steps. Clear understanding. Better code.
+My goal is not to collect technologies.
 
----
+I want to understand how systems work,  
+solve problems with code, and gradually build reliable AI services.
 
-## Focus
-
-```text
-Python Fundamentals
-        ↓
-Program Structure
-        ↓
-Data Handling
-        ↓
-AI Development
-```
-
-### Python
-
-`Syntax` · `Control Flow` · `Input / Output` · `Functions`
-
-프로그램의 기본 흐름을 이해하고  
-작은 기능을 직접 구현하는 연습을 하고 있습니다.
-
-### Structure
-
-`Modules` · `Packages` · `Import`
-
-하나의 파일에 모든 코드를 작성하는 방식에서 벗어나  
-기능을 나누고 다시 사용할 수 있도록 구조화하는 방법을 익히고 있습니다.
-
-`my_first_package` 실습을 통해  
-모듈과 패키지가 어떻게 연결되고 불러와지는지 직접 확인했습니다.
-
-### Data
-
-`Pandas` · `DataFrame` · `Data Processing`
-
-표 형태의 데이터를 생성하고 확인하며  
-필요한 정보를 선택하고 계산하는 기본적인 데이터 처리 흐름을 학습하고 있습니다.
+> **Learn → Practice → Build → Review → Improve**
 
 ---
 
-## Stack
+## Learning Roadmap
+
+<div align="center">
+
+### 01 · Backend Foundation
+Python · Backend · REST API · Database
+
+↓  
+
+### 02 · AI Agent
+Prompting · Reasoning · AI Orchestration
+
+↓  
+
+### 03 · Multi-Agent
+Agent Collaboration · Service Operation
+
+↓  
+
+### 04 · AI Workflow
+Workflow Design · Implementation · Operation
+
+↓  
+
+### 05 · Final Project
+Applying what I learned to one complete project
+
+</div>
+
+<br/>
+
+| Phase | Focus | Status |
+| :---: | --- | :---: |
+| **01** | Web Service Foundation & AI Backend | `IN PROGRESS` |
+| **02** | Single-Agent Reasoning & AI Orchestration | `UPCOMING` |
+| **03** | Multi-Agent Collaboration & Service Operation | `UPCOMING` |
+| **04** | Multi-Agent Workflow Design & Operation | `UPCOMING` |
+| **05** | Final Project | `UPCOMING` |
+
+---
+
+## Tech Stack
+
+### Currently Practicing
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=F37626"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=23A8F2"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/REST_API-111111?style=flat-square&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=D4AF37"/>
+</p>
+
+### Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Redis-181818?style=flat-square&logo=redis&logoColor=C0C0C0"/>
+  <img src="https://img.shields.io/badge/LLM_API-181818?style=flat-square&logoColor=C0C0C0"/>
+  <img src="https://img.shields.io/badge/AI_Application-181818?style=flat-square&logoColor=C0C0C0"/>
+</p>
+
+### Upcoming
+
+<p>
+  <img src="https://img.shields.io/badge/AI_Agent-181818?style=flat-square&logoColor=C0C0C0"/>
+  <img src="https://img.shields.io/badge/Multi--Agent-181818?style=flat-square&logoColor=C0C0C0"/>
+  <img src="https://img.shields.io/badge/AI_Workflow-181818?style=flat-square&logoColor=C0C0C0"/>
 </p>
 
 ---
 
-## Learning Log
+## Learning Journey
 
-### 2026 AIO2 Python Basic
+I use GitHub as more than a place to store finished code.
 
-Python의 기본 문법부터  
-함수, 모듈, 패키지, 데이터 처리까지 직접 실습하며 학습하고 있습니다.
+I want it to show how I learn, solve problems,  
+and improve my code over time.
 
-단순히 예제를 실행하는 것이 아니라  
-코드를 수정하고 오류를 확인하면서 개념을 이해하는 과정을 기록하고 있습니다.
+```text
+Learn
+  ↓
+Practice
+  ↓
+Build
+  ↓
+Review
+  ↓
+Improve
+```
 
-→ [View Repository](https://github.com/tsurien/2026_aio2_python_basic)
+### Study & Development Notes
+
+<!-- TODO: Add important learning repositories as they are created. -->
+
+| Repository | What I'm Learning | Status |
+| --- | --- | :---: |
+| `Coming Soon` | Study logs and development notes | `BUILDING` |
+
+---
+
+## Projects
+
+Projects will be added as I progress through the curriculum.
+
+Instead of creating projects only to fill this section,  
+I want each project to show a problem I tried to solve  
+and what I learned from the process.
+
+<!--
+TODO: Replace this section when the first portfolio project is ready.
+
+### Project Name
+
+**Description**  
+Short description of the project.
+
+**Problem**  
+What problem did this project try to solve?
+
+**My Role**  
+What did I personally build or contribute?
+
+**Tech Stack**  
+Python · FastAPI · ...
+
+**What I Learned**  
+What changed or improved through this project?
+
+**Repository**  
+[View Repository](REPOSITORY_URL)
+-->
+
+> **Projects are being built.**  
+> They will be added as I progress through the curriculum.
 
 ---
 
 ## Direction
 
-지금은 많은 기술을 보여주는 것보다  
-**기초를 제대로 이해하고 다음 단계로 연결하는 것**에 집중하고 있습니다.
-
 ```text
-learn  →  build  →  break  →  understand  →  improve
+Backend
+   ↓
+AI Backend
+   ↓
+AI Agent
+   ↓
+Multi-Agent
+   ↓
+AI Workflow
 ```
 
-AI 개발에 필요한 기반을 하나씩 쌓아가며  
-앞으로 프로젝트와 학습 내용을 이 공간에 계속 확장할 예정입니다.
+I am still exploring which AI-related role fits me best.
+
+For now, I am focused on building strong fundamentals  
+and turning what I learn into code, projects, and documentation.
 
 ---
 
-## Contact
+## Connect
 
-**GitHub**  
-https://github.com/tsurien/2026_aio2_python_basic
+[![GitHub](https://img.shields.io/badge/GitHub-tsurien-111111?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/tsurien)
 
-**Email**  
-[tsurien@gmail.com](mailto:tsurien@gmail.com)
+<!-- TODO: Add Blog -->
+<!-- TODO: Add Email -->
 
 ---
 
 <div align="center">
 
-### build what you learn.
+**Learning one step at a time. Building along the way.**
 
-`tsurien`
+<sub>Sgh · Backend → AI → Agent Systems</sub>
 
 </div>
